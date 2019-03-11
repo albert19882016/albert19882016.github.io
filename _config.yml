@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://albert19882016.github.io/.org
+url: https://albert19882016.github.io
 date_format: "ordinal"
 title: 何某の手记
 subtitle: "微笑吧，会很可爱"
