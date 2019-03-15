@@ -50,7 +50,8 @@ keywords: elasticsearch, java
 		* hard nproc 4096
 		# End of file
 		
-## 3. 进入es安装目录，执行。-d 参数表示后台后台执行。随后即可在浏览器9200端口验证是否正常启动。
+## 3. 启动
+    进入es安装目录，执行。-d 参数表示后台后台执行。随后即可在浏览器9200端口验证是否正常启动。
 	[es@node1 elasticsearch-6.6.0]$ bin/elasticsearch -d
 		
 注意：Elasticsearch通过HTTP协议请求默认采用9200端口，TCP请求采用9300端口。
