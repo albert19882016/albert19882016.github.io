@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elasticsearch 安装配置
-categories: java, es, 搜索引擎
+categories: Elasticsearch
 description: Elasticsearch 笔记
 keywords: elasticsearch, java
 ---
