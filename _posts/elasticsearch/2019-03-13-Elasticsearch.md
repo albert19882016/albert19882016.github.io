@@ -6,6 +6,11 @@ description: Elasticsearch 笔记
 keywords: elasticsearch, java
 ---
 
+简单介绍Elasticsearch的安装及基本配置
+
+---
+
+
 ## 1.安装
 - 1.1 安装JDK并配置环境变量，版本建议1.8以上
 - 1.2 添加用户组及用户。
