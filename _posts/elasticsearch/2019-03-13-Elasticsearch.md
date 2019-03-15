@@ -72,7 +72,7 @@ keywords: elasticsearch, java
 ## 3. 启动
    进入es安装目录，执行。-d 参数表示后台后台执行。
    
-   [es@node1 elasticsearch-6.6.0]$ bin/elasticsearch -d
+   [es@master elasticsearch-6.6.0]$ bin/elasticsearch -d
    
    随后即可在浏览器9200端口验证是否正常启动。	
    
