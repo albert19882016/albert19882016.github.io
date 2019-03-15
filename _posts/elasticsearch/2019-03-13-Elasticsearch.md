@@ -8,11 +8,11 @@ keywords: elasticsearch, java
 
 ## 1.安装
 - 1.1 安装JDK并配置环境变量，版本建议1.8以上
-- 1.2 从5.0开始，ElasticSearch提高了安全级别，不允许采用root帐号启动，所以我们要添加一个用户。
+- 1.2 添加用户组及用户。
     - 1.2.1 先创建用户组，如bigdata
-    
+        ```
 		[root@hadoop ~]# groupadd bigdata
-		
+		```
 	- 1.2.2 创建用户,如es
 	
 	    [root@hadoop ~]# useradd es
